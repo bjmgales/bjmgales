@@ -17,5 +17,5 @@ Hi there 👋
 </p>
 
 <div align = "center">
-<img sec = "https://github-readme-stats.vercel.app/api?username=bgales)"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=bgales)"/>
 </div>
