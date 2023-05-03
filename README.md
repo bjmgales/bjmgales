@@ -17,5 +17,5 @@ Hi there 👋
 </p>
 
 <div align = "center">
-[![Bgales's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgales)](https://github.com/anuraghazra/github-readme-stats)
+<img sec = "https://github-readme-stats.vercel.app/api?username=bgales)"/>
 </div>
