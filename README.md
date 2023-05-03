@@ -15,6 +15,6 @@
   Feel free to reach me at <a href="mailto:bgales@student.42nice.fr">bgales@student.42nice.fr</a>!
 </p>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjmgales&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjmgales&hide=html">
+</p>
