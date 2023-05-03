@@ -16,10 +16,9 @@ Professional situation
  Feel free to reach me at <a href="mailto:bgales@student.42nice.fr">bgales@student.42nice.fr</a> !
 </p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjmgales&theme=react&line_height=40&hide=css"/>
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bjmgales&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
 
 <!--
 **bjmgales/bjmgales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
