@@ -1,4 +1,4 @@
-g<h1 align="center">
+<h1 align="center">
   Hi there! 👋
 </h1>
 
